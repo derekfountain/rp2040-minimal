@@ -76,4 +76,4 @@ Maybe there's a better technique, or maybe I'm cooking the IC. I've
 no way to tell. I hate giving up, but this was becoming pointless.
 If my experience helps anyone else, well, there's that I suppose.
 
-Derek Fountain, February 2024
+[Derek Fountain](https://www.derekfountain.org/), February 2024
