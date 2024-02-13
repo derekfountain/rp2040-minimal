@@ -68,12 +68,20 @@ correctly using this approach, and as far as I can see under
 magnification it should work, but it doesn't. I must have added and
 removed the RP2040 half a dozen times, but I never got one working.
 I can probe 3V3 at the IC's power input, but there's nothing on the
-crystal driver output, nothing on the SWD, and the USB doesn't work.
+crystal driver output, nothing on the SWD, nothing on the 1V1 output,
+and the USB doesn't work.
 
 ## Failure
 
 Maybe there's a better technique, or maybe I'm cooking the IC. I've
 no way to tell. I hate giving up, but this was becoming pointless.
 If my experience helps anyone else, well, there's that I suppose.
+
+## Update
+
+My friend, AM, has a bit of experience with soldering QFN-56 packages
+in an oven. He tried to solder one of these, plus another one he did
+with hot air. Both those failed as well. So I did 2, AM did 2, and
+none of them worked.
 
 [Derek Fountain](https://www.derekfountain.org/), February 2024
